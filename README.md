@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MytMnSthU
+- 👋 Hi, I’m Myat Min
 - 👀 I’m interested in Web dev
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and React
 
 
 
