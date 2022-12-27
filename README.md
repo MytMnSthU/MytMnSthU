@@ -1,5 +1,6 @@
+![](https://komarev.com/ghpvc/?username=MytMnSthU&color=green)
 - 👋 Hi, I’m Myat Min
-- 👀 I’m interested in Web dev
+- 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Javascript and React
 
 
